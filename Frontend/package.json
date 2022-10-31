@@ -9,7 +9,6 @@
   },
   "devDependencies": {
     "nuxt": "3.0.0-rc.12",
-    "nuxt-windicss": "^2.5.2",
-    "windicss": "*"
+    "nuxt-windicss": "^2.5.2"
   }
 }
