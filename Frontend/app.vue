@@ -1,5 +1,15 @@
 <template>
-  <div class="bg-gray-500 w-1/3 rounded-lg mt-6">
-    aaa
+  <div>
+    <IndexVue />
   </div>
 </template>
+<script>
+import IndexVue from "./pages/index.vue";
+
+export default {
+  name: "App",
+  components: {
+    IndexVue,
+  },
+};
+</script>
